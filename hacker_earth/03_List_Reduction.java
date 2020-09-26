@@ -1,3 +1,5 @@
+package hacker_earth;
+
 /* IMPORTANT: Multiple classes and nested static classes are supported */
 import java.io.DataInputStream;
 import java.io.FileInputStream;
@@ -5,9 +7,6 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.PriorityQueue;
-
-import java.util.HashSet;
-import java.util.Set;
 
 
 class List_Reduction {
