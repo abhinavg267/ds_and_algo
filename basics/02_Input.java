@@ -29,7 +29,7 @@ class Input {
 
         int x = Integer.parseInt("56");
 
-        System.out.println(n + " " + m + " " + str);
+        System.out.println(n + " " + m + " " + str + " " + x);
 
         // int i = s.nextInt();
         // double d = s.nextDouble();
