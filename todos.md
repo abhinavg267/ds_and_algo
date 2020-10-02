@@ -1,0 +1,14 @@
+- Revise all traversals ( Zigzag, In, pre , post , level etc)
+- Sum of all subarray of an array
+- Reverse linked list
+- Find whether a loop in linked list
+- Find whether there is a cycle in graph
+- Implement AVL tree.
+- Coin change problem.
+- Heap Sort
+- Graph coloring Problem
+- shortest path in graph ( if u don’t know implementation just tell them thoery , Prim’s and Kruskal)
+- Insertion and deletion in BST ( U have to write code)
+- All views of the Binary search tree.
+- Knapsack Problem
+- Water Trapping Problem

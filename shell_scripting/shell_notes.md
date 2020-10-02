@@ -76,7 +76,7 @@
 
 ### Saving output of a command as variable
 - to save output of command `command` wrap it with `$()` or use ``backticks(`)``
-- `VARIABLE_NAME = $(command)`
+- `VARIABLE_NAME=$(command)`
   - eg. `PWD=$(pwd)`
 
 ### Command Seperator 
