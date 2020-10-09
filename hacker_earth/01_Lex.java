@@ -1,4 +1,4 @@
-package hacker_earth;
+// package hacker_earth;
 
 import java.util.Scanner;
 
